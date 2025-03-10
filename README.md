@@ -2,6 +2,12 @@
 
 A React Native application that provides an interactive 3D visualization experience for furniture items with intuitive touch gestures and real-time color customization.
 
+| Screen 1                | Screen 2                |
+| ----------------------- | ----------------------- |
+| ![Screen](assets/1.PNG) | ![Screen](assets/2.PNG) |
+| Screen 3                | Screen 4                |
+| ![Screen](assets/3.PNG) | ![Screen](assets/4.PNG) |
+
 ## 🌟 Features
 
 - **Interactive 3D Models**: View furniture items (chair, table, lamp) in full 3D with smooth rotation
